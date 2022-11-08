@@ -328,6 +328,9 @@ this video got me thinking
 Ink Cartridges Are A Scam
 https://www.youtube.com/watch?v=AHX6tHdQGiQ
 
+transcript:
+[ink-cartridges-are-a-scam.md](ink-cartridges-are-a-scam.md)
+
 one way to end the inkjet printer monopoly is open source competition.
 this has many interesting possibilities.
 if 3D printing has open source why not 2D printing?
