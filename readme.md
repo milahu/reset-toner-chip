@@ -1,4 +1,4 @@
-# awesome-reset-toner
+# reset-toner-chip
 
 tools and docs to reset a laser toner cartridge chip
 
